@@ -110,7 +110,7 @@ Desktop.ini
 ```
 
 ### `main.m`
-
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/42c310f5-1314-423f-8758-dcb22cf52256" />
 ```matlab
 % main.m - Launcher for all generative animations
 clear; close all; clc;
@@ -150,7 +150,9 @@ end
 
 Now, each animation file (inside `animations/` folder) – I'll show the improved versions. I've added comments, made the loop exit when the figure is closed, and used meaningful variable names where possible without altering the mathematical magic.
 
+
 ### `animations/animation1_mod_grid.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/0df21267-02e6-47f7-8438-303a6be1e361" />
 
 ```matlab
 % animation1_mod_grid.m
@@ -201,6 +203,7 @@ end
 ```
 
 ### `animations/animation2_wave_curve.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/27462e83-2ec3-4f51-b442-cb0264402406" />
 
 ```matlab
 % animation2_wave_curve.m
@@ -243,6 +246,7 @@ end
 ```
 
 ### `animations/animation3_rotating_rings.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/6f3ae6aa-ad6a-43f9-aa50-11b389ae5fd8" />
 
 ```matlab
 % animation3_rotating_rings.m
@@ -287,6 +291,7 @@ end
 ```
 
 ### `animations/animation4_color_swirl.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/7f0333ff-80f9-403b-9f3a-88a06937f815" />
 
 ```matlab
 % animation4_color_swirl.m
@@ -332,6 +337,7 @@ end
 ```
 
 ### `animations/animation5_spiral_dance.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/b13a92f0-c08c-44a1-86bb-3690ac4664d6" />
 
 ```matlab
 % animation5_spiral_dance.m
@@ -375,6 +381,7 @@ end
 ```
 
 ### `animations/animation6_bitxor_pattern.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/378adacd-5f92-4db9-ba34-b044a0494543" />
 
 ```matlab
 % animation6_bitxor_pattern.m
@@ -419,6 +426,7 @@ end
 ```
 
 ### `animations/animation7_variable_density.m`
+<img width="1411" height="1411" alt="image" src="https://github.com/user-attachments/assets/261af166-46d6-4f0f-8c12-64f4a4ee3521" />
 
 ```matlab
 % animation7_variable_density.m
@@ -465,6 +473,7 @@ end
 ```
 
 ### `animations/animation8_hexagon_swarm.m`
+
 
 ```matlab
 % animation8_hexagon_swarm.m
